@@ -1,4 +1,4 @@
-# LemonMaster66-2-code
+# LemonMaster66's-code
 
-the code for my LemonMaster66 #2's tutorials
+the code for my LemonMaster66 tutorials
 for people who are not good or just starting out at coding
